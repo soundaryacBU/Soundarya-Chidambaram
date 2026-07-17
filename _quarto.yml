@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  description: "A blog built with Quarto"
+  site-url: https://soundaryacBU.github.io/Soundarya-Chidambaram/ 
+  title: "Chaat-GPT"  
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Teaching.qmd
+        text: Teaching
+      - href: Research.qmd
+        text: Publications
+      - href: Blog.qmd
+        text: Blog
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com/soundaryacBU
+     
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+
+
+
