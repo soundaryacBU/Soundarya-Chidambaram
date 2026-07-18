@@ -14,7 +14,7 @@ about:
       href: https://scholar.google.com/citations?user=Qqt6KhMAAAAJ&hl=en
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/soundarya-c/
     - icon: github
       text: Github
       href: https://github.com/soundaryacBU
@@ -44,4 +44,4 @@ Whether you're here to learn about my research, browse teaching materials, or jo
 
 [Download my CV](files/CV.pdf)
 
-Curious what happens when a political scientist gets loose with code? Head to [Sandy's GPT](Blog.qmd) for the chaos! Don;t forget to check out my research (Research.qmd). 
+Curious what happens when a newbie coder gets loose with code? Head to [Sandy's GPT](Blog.qmd) for the chaos! Don't forget to check out my research (Research.qmd). 

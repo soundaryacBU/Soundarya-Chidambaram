@@ -1,6 +1,6 @@
 ---
 title: "**Sandy's GPT**"
-subtitle: "**GYAAN** (unsolicited),  **PUNDITRY** (inevitable), **THEORIES** (under construction)"
+subtitle: "**GRANDSTANDING** (inevitable) **.**  **PUNDITRY** (unsolicited) **.** **THEORIES** (under construction)"
 listing:
   contents: posts
   sort: "date desc"
@@ -12,5 +12,5 @@ listing:
 
 This is my little corner of the internet where I learn, experiment, and occasionally commit acts of code against my own will.
 
-This is my place to think out loud, share code, learn new methods, and occasionally stumble into something interesting enough to pretend it was planned all along!
+This is my place to think out loud, play with code, learn new methods, and occasionally stumble into something interesting enough to pretend it was planned all along!
 
