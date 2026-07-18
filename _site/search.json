@@ -4,28 +4,28 @@
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Welcome to my blog!"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Soundarya Chidambaram",
     "section": "",
-    "text": "Welcome to my homepage!\nI am an Associate Professor of Political Science at Bucknell University."
+    "text": "Welcome to my homepage!\n\nI’m Soundarya Chidambaram, Associate Professor of Political Science at Bucknell University.\nI am a comparative political scientist studying religious nationalism, populism, welfare, civil society, and urban governance in India and South Asia. My research examines how marginalized communities navigate politics and public service provision in urban informal settlements. I combine ethnographic fieldwork, in-depth interviews, archival research, surveys, and mixed methods to understand the everyday politics of democracy and development.\nMy teaching draws heavily on these research experiences. Whether we’re discussing populism, ethnic conflict, economic development, or democratic backsliding, I encourage students to critically engage with politics beyond the Global North and to appreciate the richness and diversity of political life across South Asia and the wider Global South.\nWhile my research has traditionally been grounded in qualitative methods, I am currently exploring computational social science methods such as text analysis, network analysis, and machine learning to explore new and old questions in comparative politics. This website reflects that journey. Alongside information about my research, publications, and teaching, you’ll find my computational social science sandbox where I experiment with R and Python.\nWhether you’re here to learn about my research, browse teaching materials, or join me in exploring computational approaches to political science, I’m glad you’re here.\nDownload my CV\nCurious what happens when a political scientist gets loose with code? Head to Sandy’s GPT for the chaos! Don;t forget to check out my research (Research.qmd)."
   },
   {
     "objectID": "Blog.html",
     "href": "Blog.html",
     "title": "Sandy’s GPT",
     "section": "",
-    "text": "title: “Sandy’s GPT” subtitle: “Gyan (unsolicited), pedantry (inevitable), theories (optional): half-baked code and overcooked opinions” listing: contents: posts sort: “date desc” type: default categories: true —"
+    "text": "Welcome to my sandbox!\nThis is my little corner of the internet where I learn, experiment, and occasionally commit acts of code against my own will.\nThink of this blog as a public lab notebook: a place to think out loud, share reproducible code, learn new methods, and occasionally stumble into something interesting enough to pretend it was planned all along.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\nHarlow Malloc\n\n\nJul 17, 2026\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nSoundarya Chidambaram\n\n\nJul 17, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "Blog.html#yaml",
     "href": "Blog.html#yaml",
     "title": "Sandy’s GPT",
     "section": "",
-    "text": "title: “Sandy’s GPT” subtitle: “Gyan (unsolicited), pedantry (inevitable), theories (optional): half-baked code and overcooked opinions” listing: contents: posts sort: “date desc” type: default categories: true —"
+    "text": "title: “Sandy’s GPT” subtitle: “Gyan (unsolicited), pedantry (inevitable), theories (optional): half-baked code and overcooked opinions” listing: contents: posts sort: “date desc” type: grid categories: true —"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -33,5 +33,19 @@
     "title": "Post With Code",
     "section": "",
     "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "Teaching.html",
+    "href": "Teaching.html",
+    "title": "Soundarya Chidambaram",
+    "section": "",
+    "text": "My research pays rigorous attention to research design, case selection and comparative case studies, and uses qualitative methods such as ethnographic fieldwork, in-depth interviews and participant observation, in addition to using the quantitative toolkit such as large-n data analysis. These research themes and methodological approaches form the basis of the courses I teach [Inro to Comparative Politics, Politics of India/South Asia, Globalization and its Critics, Senior Seminar on Comparative Ethnic Politics, and Qualitative Methods]."
+  },
+  {
+    "objectID": "Research.html",
+    "href": "Research.html",
+    "title": "Soundarya Chidambaram",
+    "section": "",
+    "text": "Research\nMy research explores the conditions under which religious nationalism, authoritarian populism, and divisive politics gain traction in democratic societies. Rather than focusing solely on elections, I examine the social movements, civil society organizations, and everyday political processes that enable populist leaders to build and sustain political support. Much of this work centers on India, where I study the evolution of Hindu nationalism as a grassroots movement and its implications for democracy, state-society relations, and majoritarian politics.\nI also study patronage, welfare, and urban governance in marginalized communities across India. Drawing on extensive ethnographic fieldwork in urban informal settlements, I argue that everyday needs for public services—not simply ideological commitments—shape political participation and support for grassroots right-wing organizations. My research demonstrates how uneven state capacity influences political mobilization, particularly among women, helping explain variation in access to public services as well as the surprising success of Hindu nationalist organizations among the urban poor.\nMore recently, I have begun integrating computational social science into my research. I am exploring how text analysis, social network analysis, machine learning, and digital trace data can complement ethnographic and qualitative methods to study political rhetoric, social movements, polarization, and civic engagement in South Asia."
   }
 ]

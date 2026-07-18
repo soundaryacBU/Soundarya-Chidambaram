@@ -14,17 +14,17 @@ website:
       - href: Research.qmd
         text: Publications
       - href: Blog.qmd
-        text: Blog
-      - href: about.qmd
-        text: About
+        text: Blog      
     right:
       - icon: github
         href: https://github.com/soundaryacBU
+      - href: files/CV.pdf
+        text: CV
      
 format:
   html:
     theme:
-      - cosmo
+      - journal
       - brand
     css: styles.css
 
