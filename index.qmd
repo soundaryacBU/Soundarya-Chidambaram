@@ -1,16 +1,25 @@
 ---
-title: "Chaat-GPT"
-subtitle: "Gyan(unsolicited), Pedantry(Inevitable), Theories (Optional): Half-baked code and overcooked opinions"
-listing:
-  contents: posts
-  feed: true
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
+title: "Soundarya Chidambaram"
+image: Chidambaram018.jpg
+subtitle: "Don't forget to check out my blog 'Sandy GPT'"
+about: 
+  template: trestles
+  links:
+    - icon: mortarboard-fill
+      text: Bucknell University
+      href: https://www.bucknell.edu/fac-staff/soundarya-chidambaram
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com/soundaryacBU
+
 page-layout: full
-title-block-banner: true
+title-block-banner: false
 ---
 
+Welcome to my homepage!
+
+I am an Associate Professor of Political Science at Bucknell University. 
 

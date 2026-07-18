@@ -1,5 +1,7 @@
-yaml---
-title: "Blog"
+yaml
+---
+title: "Sandy's GPT"
+subtitle: "Gyan (unsolicited), pedantry (inevitable), theories (optional): half-baked code and overcooked opinions"
 listing:
   contents: posts
   sort: "date desc"

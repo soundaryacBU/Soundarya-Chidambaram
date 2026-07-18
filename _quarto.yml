@@ -4,7 +4,7 @@ project:
 website:
   description: "A blog built with Quarto"
   site-url: https://soundaryacBU.github.io/Soundarya-Chidambaram/ 
-  title: "Chaat-GPT"  
+  title: "Soundarya Chidambaram"  
   navbar:
     left:
       - href: index.qmd
