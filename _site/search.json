@@ -21,17 +21,17 @@
     "text": "About this blog"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
-  },
-  {
     "objectID": "Blog.html",
     "href": "Blog.html",
     "title": "Chaat-GPT",
     "section": "",
     "text": "yaml— title: “Blog” listing: contents: posts sort: “date desc” type: default categories: true —"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
   }
 ]
