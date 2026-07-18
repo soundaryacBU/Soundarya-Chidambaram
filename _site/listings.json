@@ -1,17 +1,6 @@
 [
   {
-    "listing": "/index.html",
-    "items": []
-  },
-  {
     "listing": "/Blog.html",
-    "items": [
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
-    ]
-  },
-  {
-    "listing": "/Blog_Sandy's_GPT.html",
     "items": [
       "/posts/post-with-code/index.html",
       "/posts/welcome/index.html"
