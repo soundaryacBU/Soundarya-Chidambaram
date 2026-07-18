@@ -9,23 +9,23 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Chaat-GPT",
+    "title": "Soundarya Chidambaram",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJul 17, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJul 14, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this blog"
+    "text": "Welcome to my homepage!\nI am an Associate Professor of Political Science at Bucknell University."
   },
   {
     "objectID": "Blog.html",
     "href": "Blog.html",
-    "title": "Chaat-GPT",
+    "title": "Sandy’s GPT",
     "section": "",
-    "text": "yaml— title: “Blog” listing: contents: posts sort: “date desc” type: default categories: true —"
+    "text": "title: “Sandy’s GPT” subtitle: “Gyan (unsolicited), pedantry (inevitable), theories (optional): half-baked code and overcooked opinions” listing: contents: posts sort: “date desc” type: default categories: true —"
+  },
+  {
+    "objectID": "Blog.html#yaml",
+    "href": "Blog.html#yaml",
+    "title": "Sandy’s GPT",
+    "section": "",
+    "text": "title: “Sandy’s GPT” subtitle: “Gyan (unsolicited), pedantry (inevitable), theories (optional): half-baked code and overcooked opinions” listing: contents: posts sort: “date desc” type: default categories: true —"
   },
   {
     "objectID": "posts/post-with-code/index.html",
