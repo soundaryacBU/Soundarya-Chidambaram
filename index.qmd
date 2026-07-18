@@ -45,3 +45,5 @@ Whether you're here to learn about my research, browse teaching materials, or jo
 [Download my CV](files/CV.pdf)
 
 Curious what happens when a newbie coder gets loose with code? Head to [Sandy's GPT](Blog.qmd) for the chaos! Don't forget to check out my [Publications page](Research.qmd). 
+
+

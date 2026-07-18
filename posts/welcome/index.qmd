@@ -1,9 +1,19 @@
 ---
-title: "Welcome To My Blog"
-author: "Soundarya Chidambaram"
-date: "2026-07-17"
-categories: [news]
+title: "Can you teach an old dog new tricks?!"
+subtitle: "a.k.a what I learned at SICSS 2025"
+date: "2025-07-18"
+categories: [computational social science, learning]
 ---
 
- Welcome to my blog!
+Apparently, yes! 
  
+I participated in the incredible two-week 2025 Summer Institute in Computational Social Science at Carnegie Mellon University! 
+
+We went from wrangling data and viz in R, running topic models, and mapping networks to wrapping up with a fast-paced group project where we put our newly acquired skills to the test (and were awarded Runner-Up 🏆!! 
+ 
+Huge thanks to the organizers and the amazing lineup of instructors, speakers, co-learners, and TAs for making SICSS-CMU a space to learn, experiment, and have fun with the messy magic of data + society. 
+
+Next stop: figuring out how to use these "new tricks" to answer big questions about politics, power, and people. 
+
+
+
