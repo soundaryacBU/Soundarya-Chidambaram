@@ -1,0 +1,19 @@
+---
+title: "**Sandy's GPT**"
+subtitle: "**GYAAN** (unsolicited),  **PUNDITRY** (inevitable), **THEORIES** (under construction)"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: grid
+  categories: true
+---
+
+Welcome to my sandbox! 
+
+This is my little corner of the internet where I learn, experiment, and occasionally commit acts of code against my own will.
+
+
+
+
+Think of this blog as a public lab notebook: a place to think out loud, share reproducible code, learn new methods, and occasionally stumble into something interesting enough to pretend it was planned all along.
+
