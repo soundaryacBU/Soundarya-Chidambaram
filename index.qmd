@@ -10,7 +10,8 @@ about:
     - icon: mortarboard-fill
       text: Bucknell University
       href: https://www.bucknell.edu/fac-staff/soundarya-chidambaram
-    - text: Google Scholar
+    - icon: google
+      text: Google Scholar
       href: https://scholar.google.com/citations?user=Qqt6KhMAAAAJ&hl=en
     - icon: linkedin
       text: LinkedIn
