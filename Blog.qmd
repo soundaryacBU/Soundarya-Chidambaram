@@ -11,6 +11,7 @@ listing:
 
 **Welcome to my coding sandbox!** 
 
+
 This is my little corner of the internet where I learn, experiment, and occasionally commit acts of code against my own will.
 
 This is my place to think out loud, play with code, learn new methods, and occasionally stumble into something interesting enough to pretend it was planned all along!
