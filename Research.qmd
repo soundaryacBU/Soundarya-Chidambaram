@@ -1,4 +1,12 @@
-Research
+---
+---
+
+:::{style="text-align: center;"}
+
+**Research**
+
+:::
+
 
 My research explores the conditions under which religious nationalism, authoritarian populism, and divisive politics gain traction in democratic societies. Rather than focusing solely on elections, I examine the social movements, civil society organizations, and everyday political processes that enable populist leaders to build and sustain political support. Much of this work centers on India, where I study the evolution of Hindu nationalism as a grassroots movement and its implications for democracy, state-society relations, and majoritarian politics.
 

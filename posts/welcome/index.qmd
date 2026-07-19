@@ -3,6 +3,7 @@ title: "Can you teach an old dog new tricks?!"
 subtitle: "a.k.a what I learned at SICSS 2025"
 date: "2025-07-18"
 categories: [computational social science, learning]
+image: "thumbnail.jpg"
 ---
 
 Apparently, yes! 
