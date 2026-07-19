@@ -28,5 +28,9 @@ format:
       - brand
     css: styles.css
 
-
-
+    include-in-header:
+      - text: |
+         <script data-goatcounter="https://soundaryac.goatcounter.com/count"
+           async src="//gc.zgo.at/count.js"></script>
+      - text: |
+          <meta name="google-site-verification" content="U6OhOopcamLEMHqTQkCiPFLGp3vfHm-7gpxDDXWcAv4" />
