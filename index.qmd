@@ -2,7 +2,7 @@
 title: "Soundarya Chidambaram"
 subtitle: |
   Political Scientist @ Bucknell University<br>
-  Comparative Politics • South Asia • Networks • Text • Code
+  Comparative Politics • India • Populism • Networks • Text-as-data
 image: Chidambaram018.jpg
 about: 
   template: trestles
