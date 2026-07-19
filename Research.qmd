@@ -3,7 +3,7 @@
 
 :::{style="text-align: center;"}
 
-**Research & Publications**
+## **Research & Publications**
 
 :::
 
@@ -16,13 +16,17 @@ More recently, I have begun integrating computational social science into my res
 
 
 ### Peer-Reviewed
-- 1.	(2020) “How do institutions and infrastructure affect mobilization around public toilets vs. piped water? Examining intra-slum patterns of collective action in Delhi, India”, World Development, 132, August 2020
-- 2.	(2014) “Play in the States: the Indian Voter’s 2014 Mandate”, Economic & Political Weekly, 49:30, July 26, 2014
-- 3.	(2012) “The “Right” Kind of Welfare: Seva vs. Patronage in South India’s Urban Slums”, Asian Survey, 52: 2, April 2012
+
+1. **(2020)** “How do institutions and infrastructure affect mobilization around public toilets vs. piped water? Examining intra-slum patterns of collective action in Delhi, India.” *World Development*, **132** (August 2020).
+
+2. **(2014)** “Play in the States: the Indian Voter’s 2014 Mandate.” *Economic & Political Weekly*, **49**(30), July 26, 2014.
+
+3. **(2012)** “The ‘Right’ Kind of Welfare: Seva vs. Patronage in South India’s Urban Slums.” *Asian Survey*, **52**(2), April 2012.
+
 
 ### Editor-Reviewed 
-- 4.	(Forthcoming) “Chapter 3: Varieties of Authoritarianism”, Amy Atchison (ed.) Comparative Politics is for Everybody, University of Toronto Press [Invited Contribution]
-- 5.	(Forthcoming, in production) “Chapter 7: Authoritarianism”, Manali Desai and Indrajit Roy (eds.) Cambridge Companion to Indian Politics and Society [Invited Contribution]
-- 6. (2023) “India’s COVID response: Examining an outlier to explain subnational variation”, in Zhiqun Zhu (ed.) World Scientific Reference Volume III: Environment, Sustainability and Human Security, https://doi.org/10.1142/12807-vol3  
-- 7.	(2021) “India’s inexorable path to autocratization: Looking beyond Modi and the populist lens”, in Sten Widmalm (ed.) Routledge Handbook on Autocratization in South Asia, https://doi.org/10.4324/9781003042211 [Invited Contribution]
-- 8.	(2020) “The Civil Society Roots of BJP’s Majoritarian Nationalism”, Georgetown Journal of Asian Affairs, Policy Forum, Vol. 6, Summer 2020 [Invited Contribution]
+1. **(Forthcoming)** “Chapter 3: Varieties of Authoritarianism”, Amy Atchison (ed.) Comparative Politics is for Everybody, University of Toronto Press [Invited Contribution]
+1. **(Forthcoming, in production)** “Chapter 7: Authoritarianism”, Manali Desai and Indrajit Roy (eds.) Cambridge Companion to Indian Politics and Society [Invited Contribution]
+1. **(2023)** “India’s COVID response: Examining an outlier to explain subnational variation”, in Zhiqun Zhu (ed.) World Scientific Reference Volume III: Environment, Sustainability and Human Security, https://doi.org/10.1142/12807-vol3  
+1. **(2021)** “India’s inexorable path to autocratization: Looking beyond Modi and the populist lens”, in Sten Widmalm (ed.) Routledge Handbook on Autocratization in South Asia, https://doi.org/10.4324/9781003042211 [Invited Contribution]
+1. **(2020)** “The Civil Society Roots of BJP’s Majoritarian Nationalism”, Georgetown Journal of Asian Affairs, Policy Forum, Vol. 6, Summer 2020 [Invited Contribution]
