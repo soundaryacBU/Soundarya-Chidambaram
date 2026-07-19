@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Soundarya Chidambaram</title>
+<link>https://soundaryacBU.github.io/Soundarya-Chidambaram/Blog.html</link>
+<atom:link href="https://soundaryacBU.github.io/Soundarya-Chidambaram/Blog.xml" rel="self" type="application/rss+xml"/>
+<description>A blog built with Quarto</description>
+<generator>quarto-1.9.38</generator>
+<lastBuildDate>Fri, 17 Jul 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Post With Code</title>
+  <dc:creator>Harlow Malloc</dc:creator>
+  <link>https://soundaryacBU.github.io/Soundarya-Chidambaram/posts/post-with-code/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This is a post with executable code.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>code</category>
+  <category>analysis</category>
+  <guid>https://soundaryacBU.github.io/Soundarya-Chidambaram/posts/post-with-code/</guid>
+  <pubDate>Fri, 17 Jul 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://soundaryacBU.github.io/Soundarya-Chidambaram/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Can you teach an old dog new tricks?!</title>
+  <link>https://soundaryacBU.github.io/Soundarya-Chidambaram/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Apparently, yes!</p>
+<p>I participated in the incredible two-week 2025 Summer Institute in Computational Social Science at Carnegie Mellon University!</p>
+<p>We went from wrangling data and viz in R, running topic models, and mapping networks to wrapping up with a fast-paced group project where we put our newly acquired skills to the test (and were awarded Runner-Up 🏆!!)</p>
+<p>Huge thanks to the organizers and the amazing lineup of instructors, speakers, co-learners, and TAs for making SICSS-CMU a space to learn, experiment, and have fun with the messy magic of data + society.</p>
+<p>Next stop: figuring out how to use these “new tricks” to answer big questions about politics, power, and people.</p>
+
+
+
+ ]]></description>
+  <category>computational social science</category>
+  <category>learning</category>
+  <guid>https://soundaryacBU.github.io/Soundarya-Chidambaram/posts/welcome/</guid>
+  <pubDate>Fri, 18 Jul 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://soundaryacBU.github.io/Soundarya-Chidambaram/posts/welcome/thumbnail.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>
